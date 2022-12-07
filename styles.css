@@ -1,0 +1,44 @@
+p {
+  text-align: center;
+  font-size: 25px;
+  font-weight: 600;
+}
+
+fieldset {
+  height: auto;
+  width: 400px;
+  margin: auto;
+}
+
+label {
+  display: block;
+  margin-top: 15px;
+  padding-bottom: 5px;
+}
+
+.onetwo {
+  margin-top: 20px;
+  font-size: 18px;
+}
+
+input {
+  margin: auto;
+}
+
+.question {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 18px;
+}
+
+.selection {
+  margin-bottom: 15px;
+}
+
+.title1 {
+  margin-bottom: 15px;
+}
+
+.submit {
+  margin-top: 20px;
+}
